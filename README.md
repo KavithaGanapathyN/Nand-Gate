@@ -1,7 +1,7 @@
 # 3-Input Nand-Gate
 This repository presents the design of 3_Input Nand Gate implemented using Synopsys Custom Compiler on 28nm CMOS Technology.
 # Table of Contents
-- [ABSTRACT](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#abstract)
+- [ABSTRACT](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#table-of-contents)
 - [INTRODUCTION](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#introduction)
 - [TRUTH TABLE](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#truth-table)
 - [REFERENCE CIRCUIT](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#reference-circuit)
