@@ -2,19 +2,19 @@
 This repository presents the design of 3_Input Nand Gate implemented using Synopsys Custom Compiler on 28nm CMOS Technology.
 # Table of Contents
 - [ABSTRACT](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#table-of-contents)
-- [INTRODUCTION](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#introduction)
-- [TRUTH TABLE](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#truth-table)
-- [REFERENCE CIRCUIT](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#reference-circuit)
-- [TOOLS](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#tools)
-- [PARAMETER SET FOR PULSE](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#parameter-set-for-pulse)
-- [SYMBOL](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#symbol)
-- [LAYOUT DESIGN](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#layout-design)
-- [TRANSIENT SETTINGS](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#transient-settings)
-- [NETLIST](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#netlist)
-- [WAVEFORM](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#waveform)
-- [REFERENCES](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#references)
-- [ACKNOWLEDGEMENTS](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#acknowledgements)
-- [AUTHOR](https://github.com/KavithaGanapathyN/Nand-Gate/edit/main/README.md#author)
+- [INTRODUCTION](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#introduction)
+- [TRUTH TABLE](https://github.com/KavithaGanapathyN/Nand-Gate/b1ob/main/README.md#truth-table)
+- [REFERENCE CIRCUIT](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#reference-circuit)
+- [TOOLS](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#tools)
+- [PARAMETER SET FOR PULSE](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#parameter-set-for-pulse)
+- [SYMBOL](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#symbol)
+- [LAYOUT DESIGN](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#layout-design)
+- [TRANSIENT SETTINGS](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#transient-settings)
+- [NETLIST](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#netlist)
+- [WAVEFORM](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#waveform)
+- [REFERENCES](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#references)
+- [ACKNOWLEDGEMENTS](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#acknowledgements)
+- [AUTHOR](https://github.com/KavithaGanapathyN/Nand-Gate/blob/main/README.md#author)
 # ABSTRACT
 The Logic gates are used to carry out logical
 operations using single or multiple binary inputs and a single
